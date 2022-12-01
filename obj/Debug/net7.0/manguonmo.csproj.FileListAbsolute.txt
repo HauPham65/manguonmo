@@ -1,0 +1,15 @@
+D:\manguonmo\bin\Debug\net7.0\manguonmo.exe
+D:\manguonmo\bin\Debug\net7.0\manguonmo.deps.json
+D:\manguonmo\bin\Debug\net7.0\manguonmo.runtimeconfig.json
+D:\manguonmo\bin\Debug\net7.0\manguonmo.dll
+D:\manguonmo\bin\Debug\net7.0\manguonmo.pdb
+D:\manguonmo\obj\Debug\net7.0\manguonmo.csproj.AssemblyReference.cache
+D:\manguonmo\obj\Debug\net7.0\manguonmo.GeneratedMSBuildEditorConfig.editorconfig
+D:\manguonmo\obj\Debug\net7.0\manguonmo.AssemblyInfoInputs.cache
+D:\manguonmo\obj\Debug\net7.0\manguonmo.AssemblyInfo.cs
+D:\manguonmo\obj\Debug\net7.0\manguonmo.csproj.CoreCompileInputs.cache
+D:\manguonmo\obj\Debug\net7.0\manguonmo.dll
+D:\manguonmo\obj\Debug\net7.0\refint\manguonmo.dll
+D:\manguonmo\obj\Debug\net7.0\manguonmo.pdb
+D:\manguonmo\obj\Debug\net7.0\manguonmo.genruntimeconfig.cache
+D:\manguonmo\obj\Debug\net7.0\ref\manguonmo.dll
